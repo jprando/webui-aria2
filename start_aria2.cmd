@@ -1,0 +1,1 @@
+aria2c --enable-rpc --rpc-listen-all=true --rpc-allow-origin-all --rpc-secret "{ee54d413-a0b1-4a21-b18b-12479ac62d66}"
